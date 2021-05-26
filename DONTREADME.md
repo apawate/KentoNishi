@@ -6,4 +6,4 @@ Then @HuangPatrick16777216 forked anish's kentonishi purposefully.
 
 Then I forked that.
 
-Where will this lead??
+[You should fork it too!](https://github.com/KentoNishi/KentoNishi)
