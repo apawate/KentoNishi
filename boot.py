@@ -17,7 +17,7 @@ print("Entering command line mode")
 os.system("clear")
 if choice == "c":
   while 1:
-    cmd = input("")
+    cmd = input("kentonishi@kentonishi $ ")
     print(os.system(cmd))
 elif choice == "k" or choice == "K":
     print("Welcome to KentOS!")
